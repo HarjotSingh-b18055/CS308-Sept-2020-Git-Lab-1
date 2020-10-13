@@ -18,3 +18,5 @@ void diff(vector vec_a, vector vec_b, vector vec_c);
 float dotprod(vector vec_a, vector vec_b);
 // angle between vectors
 float angle(vector vec_a, vector vec_b);
+// norm of a vector
+float norm(vector vec_a);
