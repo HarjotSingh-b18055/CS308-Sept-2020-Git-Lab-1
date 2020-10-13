@@ -44,8 +44,8 @@ int main() {
 	ans=angle(vecA,vecB);
 	printf("Angle between the vectors: %f\n", ans);
 	
-	
-	
+	ans=norm(vecA);
+	printf("Norm of vector A: %f\n",ans);
 	
 	
 	// print and display other outputs
